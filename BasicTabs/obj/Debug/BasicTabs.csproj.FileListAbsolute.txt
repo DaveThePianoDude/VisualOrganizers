@@ -15,3 +15,4 @@ c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\
 c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Mvc.xml
 c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\obj\Debug\BasicTabs.dll
 c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\obj\Debug\BasicTabs.pdb
+C:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\obj\Debug\BasicTabs.csprojResolveAssemblyReference.cache

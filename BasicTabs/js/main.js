@@ -13,4 +13,18 @@ jQuery(document).ready(function($){
 			event.preventDefault();
 		}
 	});
+    //open the lateral panel
+	$('.cd-btn-disabled').on('click', function (event) {
+	    event.preventDefault();
+
+	    $('.cd-panel2').addClass('is-visible');
+	});
+    //clode the lateral panel
+	$('.cd-panel2').on('click', function (event) {
+	    if ($(event.target).is('.cd-panel2') || $(event.target).is('.cd-panel2-close')) {
+	        $('.cd-panel2').removeClass('is-visible');
+
+	        event.preventDefault();
+	    }
+	});
 });
