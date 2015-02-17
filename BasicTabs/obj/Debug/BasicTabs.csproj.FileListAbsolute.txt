@@ -1,0 +1,17 @@
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\BasicTabs.dll.config
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\BasicTabs.dll
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\BasicTabs.pdb
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Helpers.dll
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Mvc.dll
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Razor.dll
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Webpages.Deployment.dll
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Webpages.dll
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Webpages.Razor.dll
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Razor.xml
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Webpages.xml
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Webpages.Deployment.xml
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Webpages.Razor.xml
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Helpers.xml
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\bin\System.Web.Mvc.xml
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\obj\Debug\BasicTabs.dll
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\BasicTabs\obj\Debug\BasicTabs.pdb

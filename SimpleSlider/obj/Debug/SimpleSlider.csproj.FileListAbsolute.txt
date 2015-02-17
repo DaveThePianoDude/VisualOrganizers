@@ -1,0 +1,5 @@
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\SimpleSlider\bin\SimpleSlider.dll.config
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\SimpleSlider\bin\SimpleSlider.dll
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\SimpleSlider\bin\SimpleSlider.pdb
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\SimpleSlider\obj\Debug\SimpleSlider.dll
+c:\Users\HollandD\Documents\Visual Studio 2013\Projects\BasicTabs\SimpleSlider\obj\Debug\SimpleSlider.pdb

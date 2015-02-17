@@ -1,0 +1,94 @@
+﻿<<html>
+<head>
+    <title>Dave's Slider</title>
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <style type="text/css">
+        #hamburger {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            transition: all 0.3s ease;
+            -webkit-transition: all 0.3s ease;
+            -moz-transition: all 0.3s ease;
+            -ms-transition: all 0.3s ease;
+            -o-transition: all 0.3s ease;
+            min-height: 75px;
+            background: #ff99BD;
+            z-index: 5;
+        }
+
+        #slider {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 250px;
+            min-height: 100%;
+            transition: width 0.3s ease;
+            -webkit-transition: width 0.3s ease;
+            -moz-transition: width 0.3s ease;
+            -ms-transition: width 0.3s ease;
+            -o-transition: width 0.3s ease;
+            overflow: auto;
+            background: #34cbcb;
+            -webkit-box-shadow: inset -34px 0px 65px -28px rgba(0,0,0,0.55);
+            -moz-box-shadow: inset -34px 0px 65px -28px rgba(0,0,0,0.55);
+            box-shadow: inset -34px 0px 65px -28px rgba(0,0,0,0.55);
+            z-index: 1;
+        }
+
+        #main {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            min-height: 100%;
+            transition: all 0.3s ease;
+            -webkit-transition: all 0.3s ease;
+            -moz-transition: all 0.3s ease;
+            -ms-transition: all 0.3s ease;
+            -o-transition: all 0.3s ease;
+            overflow: auto;
+            background: #343434;
+            z-index: 3;
+        }
+
+        .slide-away {
+            transform: translate(250px, 0);
+            -webkit-transform: translate(250px, 0);
+            -moz-transform: translate(250px, 0);
+            -ms-transform: translate(250px, 0);
+            -o-transform: translate(250px, 0);
+        }
+
+        button {
+            color: #eee;
+            background: #343434;
+            font-size: 24px;
+            line-height: 1em;
+            padding: 20px;
+            border: none;
+        }
+
+            button:hover {
+                color: #bbb;
+                background: #565656;
+            }
+    </style>
+</head>
+<body>
+    <div id="hamburger"><button>Slide</button><h3 style="background-color:white">This is the first content.</h3></div>
+    <div id="slider">This is the new content.</div>
+    <div id="main"></div>
+    <script>
+	$('button').click(function() {
+		$('#hamburger').toggleClass('slide-away');
+		$('#main').toggleClass('slide-away');
+	});
+	$('#main').click(function() {
+		$('#hamburger').removeClass('slide-away');
+		$('#main').removeClass('slide-away');
+	});
+    </script>
+</body>
+</html>
