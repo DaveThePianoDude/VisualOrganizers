@@ -47,7 +47,7 @@ html, body {
   position: relative;
   display: inline-block;
   padding: 1em 2em;
-  background-color: #89ba2c;
+  background-color: #1836ea;
   color: #ffffff;
   font-weight: bold;
   -webkit-font-smoothing: antialiased;
@@ -63,7 +63,7 @@ html, body {
   position: relative;
   display: inline-block;
   padding: 1em 2em;
-  background-color: #89ba2c;
+  background-color: #f22020 ;
   color: #ffffff;
   font-weight: bold;
   -webkit-font-smoothing: antialiased;
@@ -437,10 +437,6 @@ html, body {
     line-height: 1.6;
   }
 }
-
-
-P/*ANEL 2 STUFF*/
-
 
 .cd-panel2-header {
   position: fixed;

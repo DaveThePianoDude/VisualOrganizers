@@ -14,7 +14,7 @@ jQuery(document).ready(function($){
 		}
 	});
     //open the lateral panel
-	$('.cd-btn-disabled').on('click', function (event) {
+	$('.cd-btn2').on('click', function (event) {
 	    event.preventDefault();
 
 	    $('.cd-panel2').addClass('is-visible');
